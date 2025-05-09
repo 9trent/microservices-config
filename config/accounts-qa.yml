@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to BrandonBank accounts related QA APIs "
+  contactDetails:
+    name: "John Top - QA Lead"
+    email: "john@brownsbank.com"
+  onCallSupport:
+    - (555) 323-1234
+    - (555) 543-1345
