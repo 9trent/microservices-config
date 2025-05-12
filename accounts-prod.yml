@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to BrandonBank accounts related PROD APIs "
+  message: "Welcome to BrandonBank accounts related PRODUCTION APIs"
   contactDetails:
     name: "Rob Kingdom - PROD Lead"
     email: "rob@brownsbank.com"
